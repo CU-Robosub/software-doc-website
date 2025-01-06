@@ -18,13 +18,18 @@ export default defineConfig({
       {
         text: 'Software Setup',
         items: [
-          { text: 'Intro', link: 'software-setup/software-setup-intro' }
+          { text: 'Intro', link: 'software-setup/software-setup-intro' },
+          { text: 'Docker Container', link: 'software-setup/docker-container-setup' },
+          { text: 'DVL', link: 'software-setup/dvl-setup' }
         ]
       },
       {
         text: 'Code Documentation',
         items: [
           { text: 'Intro', link: 'code-documentation/code-documentation-intro' },
+          { text: 'Motor Drivers', link: 'code-documentation/motor-driver' },
+          { text: 'DVL Drivers', link: 'code-documentation/dvl-node' },
+          { text: 'Camera Drivers', link: 'code-documentation/camera-node' },
         ]
       },
       {
