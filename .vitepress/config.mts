@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "CU RoboSub Software",
+  base: '/software-doc-website/',
   description: "Documentation for the Colorado RoboSub software team. Includes software and driver setup, as well as information regarding ROS nodes and accompanying files.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
