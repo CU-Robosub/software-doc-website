@@ -18,8 +18,10 @@ features:
   - title: DVL Setup
     details: Setup information for the DVL
     link: software-setup/dvl-setup
-  - title: DVL Documentation
-    details: DVL ROS node documentation
+  - title: Starting the Sub
+    details: Steps associated with starting up the sub
+    link: software-setup/dvl-setup
   - title: Motor Driver Documentation
     details: ROS integration, Maestro interfacing, teleoperation control
+    link:
 ---

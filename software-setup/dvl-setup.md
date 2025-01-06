@@ -1,5 +1,9 @@
 ---
 title: DVL Setup
+prev:
+  text: Docker Container Setup
+  link: software-setup/docker-container-setup
+next: false
 ---
 
 # DVL Setup

@@ -1,5 +1,9 @@
 ---
 title: Software Setup Intro
+next:
+  text: Docker Container Setup
+  link: software-setup/docker-container-setup.md
+prev: false
 ---
 
 # Software Setup

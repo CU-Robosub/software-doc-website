@@ -1,5 +1,8 @@
 ---
 title: Code Documentation
+next:
+  text: motor-driver
+  link: code-documentation/motor-driver
 ---
 
 # Code Documentation
