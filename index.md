@@ -23,5 +23,5 @@ features:
     link: software-setup/dvl-setup
   - title: Motor Driver Documentation
     details: ROS integration, Maestro interfacing, teleoperation control
-    link:
+    link: code-documentation/motor-driver
 ---
